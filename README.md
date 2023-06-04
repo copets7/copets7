@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=copets7&hide=contribs,prs&show_icons=true&theme=dracula) *** [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copets7&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=copets7&hide=contribs,prs&show_icons=true&theme=dracula)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copets7&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **copets7/copets7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
