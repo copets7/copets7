@@ -8,9 +8,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/> </a> 
 </p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=copets7&hide=contribs,prs&show_icons=true&theme=dracula) 
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=copets7&show_icons=true&locale=en&theme=dracula" alt="copets7" /></p>
 
 
